@@ -6,8 +6,10 @@ authors:
   orcid: "https://orcid.org/0000-0001-9873-2979"
 - family-names: " Merchán Rodriguez"
   given-names: "Nicolás"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: "Romero Quete"
   given-names: "David Fernando "
+  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "Optimal-Sizing-Small-Scale_MG"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
