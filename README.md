@@ -7,4 +7,4 @@ The archives uploaded here serve as support for the research paper "Optimal Desi
 
 Data thesis.xlsx is a an excel file containing the parameters and information used in the research
 
-Tesis_Luis_Leon_V_Paper.ipynb is a jupyter notebook used to solve the sizing problem with the proposed methodology implemented in Python using Pyomo.
+Tesis_Luis_Leon_V_Paper_1.ipynb is a notebook used to solve the sizing problem with the proposed methodology implemented in Python using Pyomo.
