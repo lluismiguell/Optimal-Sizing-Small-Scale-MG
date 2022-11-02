@@ -1,4 +1,4 @@
-# Optimal-Sizing-Small-Scale_MG
+# Optimal-Sizing-Small-Scale-MG
 Code and data used for my master's thesis and research paper
 
 This research was developed in the framework of the project "DISEÑO E IMPLEMENTACIÓN DE MICRORREDES ELÉCTRICAS PARA GARANTIZAR LA CALIDAD DEL SUMINISTRO EN CARGAS CRÍTICAS DEL VICHADA" developed by Universidad Nacional de Colombia sede: Bogotá and Gobernación del Vichada.
